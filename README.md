@@ -1,5 +1,5 @@
  # LINK
- ### 1차 개인 프로젝트 : <a href="https://github.com/Joyfuler/game-i_1stProject"><img src="https://img.shields.io/badge/[Game-i :: 게임 리뷰/커뮤니티 종합형 사이트]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 1차 개인 프로젝트 : <a href="https://github.com/Joyfuler/game-i_1stProject"><img src="https://img.shields.io/badge/[Game­―i :: 게임 리뷰/커뮤니티 종합형 사이트]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 2차 팀 프로젝트  XX <a href="#"><img src="https://img.shields.io/badge/팀프로젝트명-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 공부일지 <a href="https://github.com/Joyfuler/webPro/tree/main/note"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
