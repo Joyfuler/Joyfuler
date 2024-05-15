@@ -1,6 +1,6 @@
  # LINK
- ### 1차 개인 프로젝트 : <a href="https://github.com/Joyfuler/game-i_1stProject"><img src="https://img.shields.io/badge/[Game­―i :: 게임 리뷰/커뮤니티 종합형 사이트]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
- ### 2차 팀 프로젝트 : <a href="https://github.com/Joyfuler/2ndTeamProject"><img src="https://img.shields.io/badge/[Adventure World :: 놀이공원 티켓 예매/결제 사이트]-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 個人プロジェクト : <a href="https://github.com/Joyfuler/game-i_japanese"><img src="https://img.shields.io/badge/[Game­―i :: ゲームレビュー・コミュニティ通合型サイト]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### チームプロジェクト : <a href="https://github.com/Joyfuler/Adventure_World_japanese"><img src="https://img.shields.io/badge/[Adventure World :: 遊園地のチケット予約・決済とレビュー投稿サイト]-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 공부일지 <a href="https://github.com/Joyfuler/webPro/tree/main/note"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
  # 📚 SKILL
