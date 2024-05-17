@@ -1,5 +1,5 @@
  # LINK
- ### 個人プロジェクト : <a href="https://github.com/Joyfuler/game-i_japanese"><img src="https://img.shields.io/badge/[Game­―i :: ゲームレビュー・コミュニティ通合型サイト]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 個人プロジェクト : <a href="https://github.com/Joyfuler/game-i_japanese"><img src="https://img.shields.io/badge/[Game­―i :: ゲームレビュー・コミュニティ統合型サイト]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### チームプロジェクト : <a href="https://github.com/Joyfuler/Adventure_World_japanese"><img src="https://img.shields.io/badge/[Adventure World :: 遊園地のチケット予約・決済とレビュー投稿サイト]-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 공부일지 : <a href="https://github.com/Joyfuler/webPro/tree/main/note"><img src="https://img.shields.io/badge/日記-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
